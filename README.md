@@ -10,6 +10,7 @@ My work spans **fintech and trading technology**, including automated trading sy
 
 - **Languages:** Java, SQL
 - **Backend:** Spring Boot, Quarkus, Hibernate, REST APIs
+- **Frontend:** React, HTML, CSS
 - **Messaging:** Apache Kafka
 - **Cloud & DevOps:** AWS, Docker, CI/CD
 - **Databases:** MySQL, Oracle
