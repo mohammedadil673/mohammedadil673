@@ -1,37 +1,35 @@
+# Mohammed Adil
 
-# Hi, I'm Mohammed Adil 👋
+**Backend Developer | Java | Spring Boot | Quarkus | Fintech**
 
-### Backend Developer | Java | Spring Boot | Quarkus
+I'm a Backend Developer with experience building backend services, REST APIs, and microservice-based applications.
 
-I'm a Backend Developer focused on building scalable backend systems, REST APIs, and microservices.
+My work spans **fintech and trading technology**, including automated trading systems, strategy execution, backtesting, market data integration, and performance analytics. I also have experience working on telecom applications.
 
-I enjoy solving backend engineering problems, working with distributed systems, and exploring ways to build reliable applications.
+### Technical Skills
 
-### Tech Stack
+- **Languages:** Java, SQL
+- **Backend:** Spring Boot, Quarkus, Hibernate, REST APIs
+- **Messaging:** Apache Kafka
+- **Cloud & DevOps:** AWS, Docker, CI/CD
+- **Databases:** MySQL, Oracle
+- **Tools:** Git, Maven, Prometheus, Grafana
 
-**Languages**
-- Java, SQL
+### Areas of Interest
 
-**Backend**
-- Spring Boot, Quarkus, Hibernate, REST APIs
+- Fintech and trading systems
+- Microservices and distributed systems
+- Backend architecture and system design
+- Performance and scalability
 
-**Messaging & Integration**
-- Apache Kafka
+### Currently
 
-**Cloud & DevOps**
-- AWS, Docker, Git, CI/CD
+- Building and improving backend systems.
+- Exploring better approaches to distributed application design.
+- Strengthening my knowledge of system design and software engineering.
 
-**Databases**
-- MySQL, Oracle
+### Connect
 
-### What I'm Working On
-
-- Building backend services and microservice architectures.
-- Working with trading platforms and automated strategy execution.
-- Improving my knowledge of system design and backend engineering.
-
-### Connect With Me
-
-- Portfolio: Coming soon
-- LinkedIn: Coming soon
-- GitHub: [@mohammedadil673](https://github.com/mohammedadil673)
+- **GitHub:** [@mohammedadil673](https://github.com/mohammedadil673)
+- **Portfolio:** Coming soon
+- **LinkedIn:** Coming soon
